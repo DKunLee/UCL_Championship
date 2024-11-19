@@ -1,6 +1,6 @@
-# UEFA Champions League Performance Analysis
+# ⚽️ UEFA Champions League Performance Analysis
 
-## Project Overview
+## 🚀 Project Overview
 This project explores whether a team's performance during the first half of the season can predict their chances of becoming
 UEFA Champions League (UCL) champions. Soccer analytics is a growing field, and this analysis leverages historical data to
 draw insights into team success in one of the world's most prestigious soccer tournaments.
@@ -13,7 +13,7 @@ As a lifelong soccer enthusiast and Manchester United supporter, this project is
 curiosity about data-driven decision-making in soccer. Predicting a team's success in the UCL is not just a fascinating
 analytical challenge but also critical for clubs aiming to strategize and optimize their resources.
 
-## Data Sources
+## 💻 Data Sources
 This analysis uses two primary datasets:
 
 1. Champions League Match Data
@@ -26,7 +26,7 @@ This analysis uses two primary datasets:
   - Key columns: Team, Games Played (pre-Jan 1), Goal Difference, Points, League Rank.
   - Includes additional features created specifically for this analysis.
 
-## Analysis and Findings
+## 📈 Analysis and Findings 📉
 - Methodology
   1. Data Cleaning and Preprocessing:
     - Standardized raw data formats from CSV files.
@@ -47,8 +47,13 @@ This analysis uses two primary datasets:
 Insights into correlations between domestic league performance and UCL outcomes.
 Identification of key metrics that significantly impact a team’s chances of winning the championship.
 
-## Tools and Technologies
+## 🛠️ Tools and Technologies
 - Programming Language: Python
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - Development Environment: Jupyter Notebook
 - Version Control: GitHub
+
+## 📞 Contact
+- Author: DK(Dongkun) Lee
+- Email: ldkun2001@gmail.com
+- GitHub: DKunLee
