@@ -35,9 +35,11 @@ This analysis uses two primary datasets:
   2. Exploratory Data Analysis (EDA):
     - Visualized key performance indicators (e.g., goals scored, points earned).
     - Analyzed trends across multiple seasons.
+      ![UCL Performance Chart](images/Points_by_league_rankingVSGD_by_league_ranking.png)
 
   3. Modeling:
-    - Implemented statistical and machine learning models to identify performance predictors.
+    - Implemented statistical to identify performance predictors.
+      ![UCL Performance Chart](images/Correlation_Graph.png)
 
 - Results
 Insights into correlations between domestic league performance and UCL outcomes.
